@@ -147,6 +147,14 @@ h6 {
 .icons span {
     margin-left: 12px;
 }
+.team-flag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.team-flag span {
+    margin: 0 3px;
+}
 .match-content {
     padding: 27px;
 }
